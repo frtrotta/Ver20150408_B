@@ -1,3 +1,3 @@
-# Ver20150408-B
+# Ver20150408-A
 
-Fila B della verifica di codifica Java del 8 Aprile 2015
+Fila A della verifica di codifica Java del 8 Aprile 2015
